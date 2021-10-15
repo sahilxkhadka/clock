@@ -17,14 +17,12 @@ body {
     align-items: center;
     height: 600px;
     min-height: 100vh;
-    /* min-height: 100vh; */
-    /* overflow: hidden; */
-    transition: background 0.7s ease-in-out;
+    overflow: hidden;
+    transition: background 0.6s ease-in-out;
 }
 #clock {
-    width: 400px;
-    max-width: 80%;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     background: rgba(255, 255, 255, 0.6);
     border-radius: 50%;
     border: 6px solid black;
